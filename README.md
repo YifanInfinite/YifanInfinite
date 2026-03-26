@@ -1,10 +1,8 @@
 ## 👋 About Me
 
-Hi! I am a Ph.D. student in the **College of Electrical Engineering** at Zhejiang University (since 2024), studying at the [**Ubiquitous System Security Laboratory (USSLAB)**](https://usslab.org).
+Hi! I am a Ph.D. student in the College of Electrical Engineering at **Zhejiang University** (since 2024), studying at the [**Ubiquitous System Security Laboratory (USSLAB)**](https://usslab.org).
 
 My research focuses on **embodied AI security** and **audio/speech security**.
-
-I received my B.Eng. in Automation from the School of Automation at **Northwestern Polytechnical University** (2020–2024).
 
 An emerging researcher rapidly advancing — welcome to witness my progress, and I look forward to communication and collaboration. ✨
 
