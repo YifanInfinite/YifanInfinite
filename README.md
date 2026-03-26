@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi! I am a Ph.D. student in the **College of Electrical Engineering** at [Zhejiang University](https://www.zju.edu.cn) (since 2024), advised by Assoc. Prof. Chen Yan and Prof. Wenyuan Xu at the [**Ubiquitous System Security Laboratory (USSLAB)**](https://usslab.org).
+Hi! I am a Ph.D. student in the **College of Electrical Engineering** at Zhejiang University (since 2024), studying at the [**Ubiquitous System Security Laboratory (USSLAB)**](https://usslab.org).
 
 My research focuses on **embodied AI security** and **audio/speech security**.
 
